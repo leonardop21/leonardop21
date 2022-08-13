@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Nascimento</h1>
+<h1 align="center">Hello, I'm Leonardo Nascimento</h1>
 <h3 align="center">A developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Boleto Inter](https://github.com/leonardop21/boleto-inter)
